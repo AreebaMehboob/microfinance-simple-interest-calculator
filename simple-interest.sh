@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# This script calculates simple interest.
+# Author: Areeba Mehboob
+# Additional Author: AreebaMehboob
 # Function to calculate simple interest
 calculate_simple_interest() {
     principal=$1
